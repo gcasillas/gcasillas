@@ -1,14 +1,14 @@
 Hi, I’m Gabe 👋
 
-Clinical Informatics Specialist | Full-Stack Developer | Blockchain Enthusiast
+Autonomous Systems Engineer | Full-Stack Developer | Drone Operations & Enterprise Integration
 
+I bridge the gap between physical operations—like industrial drone inspection and automated fleet management—and complex software architectures (from clinical informatics to decentralized finance). I specialize in leveraging data analytics and AI to optimize mission-critical workflows.
 
-I bridge the gap between complex legacy systems (like traditional Healthcare) and the future of decentralized finance and blockchain technology. I’m currently focused on building applications that utilize stablecoins and blockchain for real-world utility.
+🛸 Drone Industry Focus: Transitioning enterprise aviation workflows using PX4, ArduPilot, and automated MAVLink routines for industrial surveillance and infrastructure inspections.
 
-🔭 Currently Working On: A blockchain-integrated payment system using Next.js, Firebase, and the Circle SDK.
+🔭 Currently Working On: Adapting advanced AI-driven 'Centaur' workflows for UAS flight logs and structural analysis.
 
-⛓️ Blockchain Interests: Deeply interested in the XRPL and Stellar networks for low-latency, high-efficiency transactions.
+🛠️ Tech Stack: JavaScript, React/Next.js, Node.js, Firebase, ArduPilot SITL, GIS mapping integrations.
 
-🛠️ Tech Stack: JavaScript, React/Next.js, Node.js, Firebase.
+🎓 Learning Path: Scaling Beyond Visual Line of Sight (BVLOS) command center software and merging edge AI with real-time autonomous hardware feedback.
 
-🎓 Learning Path: Bridging smart contract logic into legacy environments and exploring the interoperability between traditional finance and antiquated workflow systems with Web3.
